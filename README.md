@@ -45,8 +45,7 @@ para guarda el participante siempre se guarda con la fecha del sistema
     
 - el retirarse se puede hacer antes de que se pierda  y responder cada pregunta en su respectiva ronda 
   podra guardar su acumulado hasta ese momento
-  
-![Output sample](gif/retirarse.gif)
+
 
   
   
