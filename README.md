@@ -25,7 +25,7 @@ para guarda el participante siempre se guarda con la fecha del sistema
   
 - el nombre de usuario tiene maximo 7 caracteres sin ningun caracter especial solo letras minusculas o mayusculas y numeros.
 
- ![Output sample](gif/perder.gif)
+ ![Output sample](gif/tamaño.gif)
 
 - para responder la pregunta tienen que dar click a la respuesta y automaticamente la verifica y les carga la siguente ronda
   o les sale que perdio y guarda el acumulado y lo redirije al inicio.
