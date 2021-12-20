@@ -1,7 +1,10 @@
 # reto_Sofka
 
 ## instrucciones de uso 
-
+ 
+  las categorias deben de tener preguntas  o cuando salga esa categoria no podra realizar 
+  las rondas 
+  
 para guarda el participante siempre se guarda con la fecha del sistema
 
 - se demora al iniciar debido al base dedatos que esta en la nube y el proveedor no es muy bueno
