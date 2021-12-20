@@ -837,8 +837,9 @@ public class Ventana extends javax.swing.JFrame {
                         ERROR_MESSAGE
                 );
                 controlPreguntas.guardarParticipante(0);
+                  reiniciar();
                 controlPreguntas.reiniciar();
-                reiniciar();
+              
 
             } catch (ManejoBDException ex) {
                 showMessageDialog(
